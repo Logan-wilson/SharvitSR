@@ -1,7 +1,7 @@
 # SharvitSR
 
 [![python](https://img.shields.io/badge/-Python_3.10+-blue?logo=python&logoColor=white)]()
-[![license](https://img.shields.io/badge/License-CC%20BY--SA%204.0-green)]()
+[![license](https://img.shields.io/badge/license-CC_BY_4.0-green)]()
 
 
 Code used for the paper submitted to Pattern Recognition, titled "SpIRL: Spatially-aware image representation learning under the supervision of relative position descriptors".
